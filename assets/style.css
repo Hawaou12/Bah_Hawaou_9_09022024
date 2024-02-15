@@ -68,7 +68,7 @@ body {
 }
 
 .picture img {
-	width: 100%;
+	width: auto;
 
 }
 #about-me {
